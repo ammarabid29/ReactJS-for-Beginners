@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar_content {
+  padding: 10px;
+  background-color: white;
+}
+
+.grid_container {
+  align-items: center;
+}
+
+.left_logo {
+  display: flex;
+}
+
+i {
+  background-image: url(https://static.cdninstagram.com/rsrc.php/v3/yv/r/KoLLpWDb4f6.png);
+  background-position: 0px -52px;
+  background-size: auto;
+  width: 175px;
+  height: 51px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.search{
+  height: 30px;
+  width: 210px;
+  border: 1px solid #cfcece;
+  text-align: center;
+  border-radius: 2px;
+}
+
+.icons_grid{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
